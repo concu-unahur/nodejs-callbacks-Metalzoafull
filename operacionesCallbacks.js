@@ -21,12 +21,12 @@ valor = 2 //no se puede modificar
 
 
 // que el valor de res1 sea 15
-var res1 = //cambia(...completar)
+var res1 = cambia(2,porCinco) //cambia(...completar)
 console.log(res1)
 
 
 // que el valor de res2 sea 30
-var res2 = //cambia(...completar)
+var res2 = cambia(2,porDiez)//cambia(...completar)
 console.log(res2)
 
 
